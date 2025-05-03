@@ -1,0 +1,6 @@
+downloads/
+slides/
+__pycache__/
+*.pyc
+*.tmp
+*.log
